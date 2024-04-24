@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 Con habilidades en lenguajes con  HTML, CSS, JavaScript, React, Python y SQL, con ganas de formarme y adquirir más conocimientos deel fascinante mundo de la programación.
 
-Cuando no estoy enfrascada en el código, disfruto pasando tiempo al aire libre con mi familia y amigos. Apasionada del mar 🏖️, una buena película 📽️, un buen libro 📖 y todo tipo de deportes 🥊 :mujer_en_postura_de_loto: 
+Cuando no estoy enfrascada en el código, disfruto pasando tiempo al aire libre con mi familia y amigos. Apasionada del mar 🏖️, una buena película 📽️, un buen libro 📖 y todo tipo de deportes 🥊 ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/82795b2f-d022-45ea-b635-c40787aee9e8)
+
 
 <!-- ### Repositorios
 
@@ -34,6 +35,6 @@ Voy compartiendo mi aprendizaje a través de los repositorios que véis a contin
 
 ### GitHub Stats :dizzy:
 
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedes0708&show_icons=true&show=prs_merged&theme=cobalt)
+![Mercedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedes0708&show_icons=true&show=prs_merged&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedes0708&theme=cobalt)]
