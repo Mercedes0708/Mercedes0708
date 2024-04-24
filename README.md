@@ -11,7 +11,7 @@
 
 Con habilidades en lenguajes con  HTML, CSS, JavaScript, React, Python y SQL, con ganas de formarme y adquirir más conocimientos deel fascinante mundo de la programación.
 
-Cuando no estoy enfrascada en el código, disfruto pasando tiempo al aire libre con mi familia y amigos, o en álgun viaje. Apasionada del mar 🏖️, una buena película 📽️, un buen libro 📖 y todo tipo de deportes 🥊 ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/82795b2f-d022-45ea-b635-c40787aee9e8) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/320020f2-1dcf-46b3-8baf-9649e67d03be) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/40e70bef-5851-4094-acb2-7da5468200d4) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/4a3720f9-fe52-414f-b820-046fb1e77188).
+Cuando no estoy enfrascada en el código, disfruto pasando tiempo al aire libre con mi familia y amigos, o en álgun viaje. Apasionada del mar 🏖️, una buena película 📽️, un buen libro 📖 y todo tipo de deportes 🥊 ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/82795b2f-d022-45ea-b635-c40787aee9e8) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/320020f2-1dcf-46b3-8baf-9649e67d03be) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/40e70bef-5851-4094-acb2-7da5468200d4) ![image](https://github.com/Mercedes0708/Mercedes0708/assets/144907375/4a3720f9-fe52-414f-b820-046fb1e77188)  .
 
 
 
